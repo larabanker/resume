@@ -131,9 +131,9 @@ Social Media Strategy Conference
     
 ## Certifications
 
-[Google Analytics Certification Beginners](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Beginner.pdf)
+[Advanced Google Analytics](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Beginner.pdf)
 
-[Google Analytics Certification Advanced](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Advanced.pdf)
+[Beginner Google Analytics](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Advanced.pdf)
 
 ## Education
   
