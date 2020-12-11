@@ -1,5 +1,7 @@
 # Lara Banker
 
+Marketing professional with 12 years of experience, specializing in digital marketing and analytics for campaigns that convert. 
+
 [Portfolio](http://portfolio.larabanker.com/) / 
 [LinkedIn](https://www.linkedin.com/in/larabanker/) /
 765.506.6799 / 
@@ -7,8 +9,8 @@ lara@larabanker.com /
 
 ## Work Experience
 
-### Director of Marketing 
-#### [Banker Creative](https://bankercreative.com/)
+### [Banker Creative](https://bankercreative.com/)
+#### Director of Marketing 
 
 **January 2020 to Present** /
 Seattle, WA (remote)
@@ -19,8 +21,8 @@ Seattle, WA (remote)
 - Developed a proven A/B testing model, increasing conversions by 40% MoM
 - Directed operations in new project management system setup, improving team productivity and efficiency by 240%
 
-### Sr. Manager, Marketing Strategy
-#### [Museum of Pop Culture](http://mopop.org/)
+### [Museum of Pop Culture](http://mopop.org/)
+#### Sr. Manager, Marketing Strategy
 
 **August 2017 to January 2020** /
 Seattle, WA
@@ -32,8 +34,8 @@ Seattle, WA
 - Directed 75+ campaigns a year, resulting in 35% increase in ROAS YoY
 - Led A/B testing, audience segmentation, strategy, and reporting to key stakeholders
 
-### Director of Marketing
-#### [BrandGlue Social Media Agency](https://brandglue.com/)
+### [BrandGlue Social Media Agency](https://brandglue.com/)
+#### Director of Marketing
 
 **February 2016 to April 2017** /
 Seattle, WA (remote)
@@ -45,8 +47,8 @@ Seattle, WA (remote)
 - Built an influencer program for audience growth (+1.5% MoM) and engagement (+2% MoM)
 - Developed Instagram, LinkedIn, and Facebook content to meet campaign goals
 
-### Vice President of Marketing
-#### Sells Group Marketing Agency
+### Sells Group Marketing Agency
+#### Vice President of Marketing
 
 **July 2015 to January 2016** /
 Indianapolis, IN
@@ -59,8 +61,8 @@ Indianapolis, IN
 - Operated data analysis, presented KPI reports and collaborated on strategies with clients
 - Implemented a project management system and trained 20+ employees
 
-### Director of Marketing & Events
-#### [Achieve Agency](https://achieveagency.com/)
+### [Achieve Agency](https://achieveagency.com/)
+#### Director of Marketing & Events
 
 **August 2013 to July 2015** /
 Indianapolis, IN
@@ -72,8 +74,8 @@ Indianapolis, IN
 - Built from the ground up a local conference Indy Redefined, including sourcing speakers, directing logistics, and managing marketing and promotion
 - Implemented a project management system and documented 20 processes
 
-### Creative Director
-#### Brainer+Banker Design
+### Brainer+Banker Design
+#### Creative Director
 
 **May 2010 to August 2013** /
 Indianapolis, IN
@@ -85,8 +87,8 @@ Indianapolis, IN
 - Managed business operations, financials, new business, and client relations
 - Designed websites, logos, email, and social media graphics
 
-### Assistant Manager
-#### [Origins](https://www.origins.com/)
+### [Origins](https://www.origins.com/)
+#### Assistant Manager
 
 **August 2008 to February 2010** /
 Indianapolis, IN
