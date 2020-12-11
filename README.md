@@ -8,7 +8,7 @@ lara@larabanker.com /
 ## Work Experience
 
 ### Director of Marketing 
-#### Banker Creative
+#### [Banker Creative](https://bankercreative.com/)
 
 **January 2020 to Present** /
 Seattle, WA (remote)
@@ -20,7 +20,7 @@ Seattle, WA (remote)
 - Directed operations in new project management system setup, improving team productivity and efficiency by 240%
 
 ### Sr. Manager, Marketing Strategy
-#### Museum of Pop Culture (MoPOP)
+#### [Museum of Pop Culture](http://mopop.org/)
 
 **August 2017 to January 2020** /
 Seattle, WA
@@ -33,7 +33,7 @@ Seattle, WA
 - Led A/B testing, audience segmentation, strategy, and reporting to key stakeholders
 
 ### Director of Marketing
-#### BrandGlue Social Media Agency
+#### [BrandGlue Social Media Agency](https://brandglue.com/)
 
 **February 2016 to April 2017** /
 Seattle, WA (remote)
@@ -60,7 +60,7 @@ Indianapolis, IN
 - Implemented a project management system and trained 20+ employees
 
 ### Director of Marketing & Events
-#### Achieve Agency
+#### [Achieve Agency](https://achieveagency.com/)
 
 **August 2013 to July 2015** /
 Indianapolis, IN
@@ -86,7 +86,7 @@ Indianapolis, IN
 - Designed websites, logos, email, and social media graphics
 
 ### Assistant Manager
-#### Origins
+#### [Origins](https://www.origins.com/)
 
 **August 2008 to February 2010** /
 Indianapolis, IN
