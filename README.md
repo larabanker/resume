@@ -1,11 +1,9 @@
 # Lara Banker
-## Director of Marketing
 
 [Portfolio](http://portfolio.larabanker.com/) / 
 [LinkedIn](https://www.linkedin.com/in/larabanker/) /
 765.506.6799 / 
 lara@larabanker.com / 
-27011 Cardiff Ave, Kent, WA 98032 / 
 
 ## Work Experience
 
@@ -98,3 +96,49 @@ Indianapolis, IN
 - Strategized marketing and promotion for in-store and external events
 - Assisted in business administration, including payroll, inventory and corporate 
   communication
+  
+## Speaking
+
+**Guest Interviewee**
+[Women on the Rise Podcast](https://laradalch.com/2020/03/how-to-start-over-with-lara-banker/)
+
+**Data-Driven Marketing Presenter**
+Annual PGA Summit
+
+**Marketing Representative**
+MoPOP Monthly Staff Meetings
+
+**Guest Interviewee**
+[Tiny House, Tiny Footprint Podcast](http://www.tinyhousetinyfootprint.com/roll-with-me/lara-in-a-chevy-van)
+
+**Portfolio Advisor**
+AIGA Student Portfolio Review
+
+**Webinar Presenter**
+Achieve Webinars
+
+**Guest Brand Expert**
+[Bloomerang TV](https://youtu.be/GRs-guuHHgU)
+
+**Social Media Presenter**
+Social Media Strategy Conference
+
+**Campaign Presenter**
+FOCF Conference
+
+**Fundraising Presenter**
+[Indy Nonprofit Marketing](https://www.facebook.com/IndyNonprofitMarketing/about/)
+    
+## Certifications
+
+## Education
+  
+  B.A. Visual Arts /
+  [Taylor University](https://www.taylor.edu/) /
+  [#2 Best Regional Colleges Midwest](https://www.usnews.com/best-colleges/rankings/regional-colleges-midwest)
+  
+  MBA in Entrepreneurship / 
+  [Kelley School of Business](https://kelley.iupui.edu/) /
+  [#9 Best Part-Time MBA Programs](https://www.usnews.com/best-graduate-schools/top-business-schools/part-time-rankings)
+  
+
