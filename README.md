@@ -124,12 +124,16 @@ Achieve Webinars
 Social Media Strategy Conference
 
 **Campaign Presenter**
-FOCF Conference
+[FOCF Conference](https://festivalofchildren.org/)
 
 **Fundraising Presenter**
 [Indy Nonprofit Marketing](https://www.facebook.com/IndyNonprofitMarketing/about/)
     
 ## Certifications
+
+[Google Analytics Certification Beginners](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Beginner.pdf)
+
+[Google Analytics Certification Advanced](http://portfolio.larabanker.com/wp-content/uploads/2020/12/Course_Certificate-Advanced.pdf)
 
 ## Education
   
